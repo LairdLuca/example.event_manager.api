@@ -15,6 +15,9 @@ project.lock.json
 *.userosscache
 *.sln.docstates
 
+# User-specific folders
+Data_OLD/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/

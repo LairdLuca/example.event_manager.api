@@ -100,7 +100,7 @@ namespace Event_Manager
                 {
                     Version = "V1",
                     Title = "WebAPI",
-                    Description = "Product WebAPI"
+                    Description = "Event WebAPI"
                 });
 
                 options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
